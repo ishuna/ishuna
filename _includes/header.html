@@ -1,9 +1,9 @@
-  <header>
-      <h1>{{ site.title }}</h1>
-      <nav>
-          <ul>
-              <li><a href="{{ '/' | relative_url }}">Home</a></li>
-              <li><a href="{{ '/download.html' | relative_url }}">Download</a></li>
-          </ul>
-      </nav>
-  </header>
+<nav>
+  <div class="nav-wrapper teal">
+    <a href="#" class="brand-logo center">{{ site.title }}</a>
+    <ul id="nav-mobile" class="left hide-on-med-and-down">
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/download.html' | relative_url }}">Download</a></li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,4 @@
+  title: "Game Download"
+  description: "Download the latest version of our game"
+  baseurl: "" # the subpath of your site, e.g. /blog
+  url: "https://inhuna.github.io" # the base hostname & protocol for your site

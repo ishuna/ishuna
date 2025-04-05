@@ -12,8 +12,6 @@ title: "Home"
             <a href="example.com" class="btn-large waves-effect waves-light purple lighten-2 rounded-btn">download</a>
         </div>
     </div>
-
-    <!-- Information Section -->
     <div class="section">
         <h2 class="header center blue-text text-darken-2">about kerosene (lowercase k)</h2>
         <p class="flow-text center">kerosene is a mod for Madalin Cars Multiplayer with a now needed changes since the game's dev doesnt seem to care that someone else is hacking it.</p>

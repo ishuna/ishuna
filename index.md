@@ -14,14 +14,14 @@ title: "Home"
     </div>
     <div class="section">
         <h2 class="header center blue-text text-darken-2">about kerosene (lowercase k)</h2>
-        <p class="flow-text center">kerosene is a mod for Madalin Cars Multiplayer with a now needed changes since the game's dev doesnt seem to care that someone else is hacking it.</p>
+        <p class="flow-text center">kerosene is a mod for Madalin Cars Multiplayer with a now needed changes since the games dev doesnt seem to care that someone else is hacking it.</p>
         <p class="flow-text center">this is not affiliated with the game in any way, the game's already runied bc of someone else so I dont care if you go insane, its encouraged.</p>
         <p class="flow-text center">the features as is follows:</p>
         <ul class="flow-text center">
             <li><b>anti-kick</b></li>
             <li><b>anti-name change</b></li>
             <li><b>anti-room close</b></li>
-            <li><b>(meaning nobody can close, lock or kick you out of your rooms, you OWN them)</b></li>
+            <li><b>(meaning nobody can close or lock your rooms, nor kick you)</b></li>
         </ul>
         <p class="flow-text center">gameplay features:</p>
         <ul class="flow-text center">

@@ -36,13 +36,13 @@ title: "Home"
         <h2 class="header center green-text text-darken-2">screenshots</h2>
         <div class="row">
             <div class="col s12 m6 l4">
-                <img src="screenshot1.jpg" alt="Screenshot 1" class="responsive-img materialboxed">
+                <img src="screenshot1.png" alt="Screenshot 1" class="responsive-img materialboxed">
             </div>
             <div class="col s12 m6 l4">
-                <img src="screenshot2.jpg" alt="Screenshot 2" class="responsive-img materialboxed">
+                <img src="screenshot2.png" alt="Screenshot 2" class="responsive-img materialboxed">
             </div>
             <div class="col s12 m6 l4">
-                <img src="screenshot3.jpg" alt="Screenshot 3" class="responsive-img materialboxed">
+                <img src="screenshot3.png" alt="Screenshot 3" class="responsive-img materialboxed">
             </div>
         </div>
     </div>

@@ -30,6 +30,7 @@ title: "Home"
             <li>color changing</li>
             <li>infinite nitro</li>
             <li>noclip</li>
+            <li>map changing (switch maps in-game without leaving)</li>
         </ul>
     <div class="section">
         <h2 class="header center green-text text-darken-2">screenshots</h2>

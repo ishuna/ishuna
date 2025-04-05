@@ -9,7 +9,7 @@ title: "Home"
             <h5 class="header col s12 light">a mod for a game</h5>
         </div>
         <div class="row center">
-            <a href="example.com" class="btn-large waves-effect waves-light purple lighten-2 rounded-btn">download</a>
+            <a href="https://github.com/ishuna/ishuna.github.io/releases/download/release/kerosene_release.zip" class="btn-large waves-effect waves-light purple lighten-2 rounded-btn">download</a>
         </div>
     </div>
     <div class="section">

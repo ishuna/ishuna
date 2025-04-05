@@ -15,7 +15,7 @@ title: "Home"
     <div class="section">
         <h2 class="header center blue-text text-darken-2">about kerosene (lowercase k)</h2>
         <p class="flow-text center">kerosene is a mod for Madalin Cars Multiplayer with now needed changes since the games dev doesnt seem to care that someone else is hacking it.</p>
-        <p class="flow-text center">this is not affiliated with the game in any way, the game's already runied bc of someone else so I dont care if you go insane, its encouraged.</p>
+        <p class="flow-text center">this is not affiliated with the game in any way, the game is already runied bc of someone else so I dont care if you go insane, its encouraged.</p>
         <p class="flow-text center">the features as is follows:</p>
         <ul class="flow-text center">
             <li><b>anti-kick</b></li>

@@ -31,6 +31,7 @@ title: "Home"
             <li>infinite nitro</li>
             <li>noclip</li>
             <li>map changing (switch maps in-game without leaving)</li>
+            <li>private messaging (chat with other players without anyone else seeing)</li>
         </ul>
     <div class="section">
         <h2 class="header center green-text text-darken-2">screenshots</h2>

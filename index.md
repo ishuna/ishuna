@@ -45,6 +45,9 @@ title: "Home"
             <div class="col s12 m6 l4">
                 <img src="screenshot3.png" alt="Screenshot 3" class="responsive-img materialboxed">
             </div>
+            <div class="col s12 m6 l4">
+                <img src="screenshot4.png" alt="Screenshot 4" class="responsive-img materialboxed">
+            </div>
         </div>
     </div>
 </div>
